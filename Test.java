@@ -37,6 +37,7 @@ public class Test {
 	public static void main(String[] args) {
 		Test test = new Test();
 		test.test();
+		System.out.prinln("hahha");
 	}
 
 }
